@@ -19,7 +19,7 @@ Machine-Learning-Based Intrusion Detection for Cloud Environments
 
 An independent project exploring machine learning techniques for detecting network attacks using intrusion detection data.
 
-🗓️ View Project Repository
+🗓️ https://github.com/stephmakas/machine-learning-intrusion-detection-cloud
 
 The project compares machine learning models and examines their performance across different attack categories, including the challenges of detecting less common or difficult attack types.
 
