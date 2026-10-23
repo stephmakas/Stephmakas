@@ -28,8 +28,7 @@ The project compares machine learning models and examines their performance acro
 Building practical experience in AI, machine learning, and cybersecurity while strengthening my software development and analytical skills.
 
 📫 Connect With Me
-
-* GitHub: @stephmakas⁠￼
+* GitHub: https://github.com/stephmakas￼
 
 <!--
 **stephmakas/Stephmakas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
